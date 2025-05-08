@@ -2,17 +2,6 @@
 
 A minimal and efficient Zsh setup for macOS and Linux.
 
-## Features
-- Fast startup with Sheldon and Starship
-- Modern tools: exa, bat, zoxide
-- Easy installation and configuration
-
-## Prerequisites
-- Zsh installed
-- Git for cloning the repository
-- curl for installing Homebrew
-- For Linux: ensure you have build-essential, curl, file, git installed (e.g., `sudo apt install build-essential curl file git` on Ubuntu)
-
 ## Installation
 1. Clone this repository:
    ```bash
